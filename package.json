@@ -1,0 +1,17 @@
+{
+  "name": "nova-pasta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "grunt build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^5.0.0",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.77.1"
+  }
+}
