@@ -66,6 +66,8 @@ img{
 .footer{
     text-align: center;
     margin-top: 40px;
+    background-color: bisque;
+    padding:8px;
 }
 h1{
     font-family: "Poetsen One", sans-serif;
