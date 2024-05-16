@@ -15,7 +15,7 @@ form{
 img{
     border-radius: 80%;
     width: 100px;
-    margin-top: 20px;
+    margin-top:50px;
     background-color: #fff;
     margin-bottom:5px;
 }
@@ -68,7 +68,7 @@ img{
 .footer{
     color: #000;
     text-align: center;
-    margin-top: 40px;
+    margin-top: 80px;
 }
 h1{
     font-family: "Poppins", sans-serif;
