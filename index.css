@@ -2,11 +2,10 @@ body{
     background-color: #18dcff;
 }
 form{
-    padding-top:20px;
     border: 2px solid aliceblue;
     max-width: 500px;
     margin: 0 auto;
-    max-height: 600px;
+    max-height: 800px;
     background-image: url(./fundo__form.jpg);
     background-size: contain;
 }
