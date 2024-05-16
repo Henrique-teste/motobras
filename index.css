@@ -1,5 +1,7 @@
 body{
     background-color: #18dcff;
+    text-align: center;
+    justify-content: center;
 }
 form{
     border: 2px solid aliceblue;
