@@ -1,6 +1,5 @@
 body{
     background-color: #18dcff;
-    margin: 0 auto;
 }
 form{
     border: 2px solid aliceblue;
@@ -13,7 +12,6 @@ form{
 }
 .container{
     text-align: center;
-    margin: 0 auto;
 }
 img{
     border-radius: 80%;
