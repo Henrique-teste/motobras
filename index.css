@@ -72,18 +72,21 @@ img{
 h1{
     font-family: "Poppins", sans-serif;
     font-weight: bold;
-    font-style: bolder;
+    font-style: bold;
     color: #fff;
+    padding-bottom: 20px;
+    font-size: 40px;
 }
 h3{
     font-family: "Poetsen One", sans-serif;
     font-weight: normal;
     font-family: "Poppins", sans-serif;
-    font-weight
+    font-weight:bold ;
     font-style: bolder;
     color: #fff;
 }
 a{
     text-decoration: none;
     color: #fff;
+    font-size: 20px;
 }
